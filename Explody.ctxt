@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Explody
+comment0.text=\r\n\ Goes\ up\ to\ wall\ and\ explodes.\ (some\ regular\ comments\ apply)\r\n
+comment1.params=
+comment1.target=Explody()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Regular\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4
